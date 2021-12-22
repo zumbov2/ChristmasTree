@@ -1,2 +1,6 @@
-# ChristmasTree
-8-bit inspired and R animated glowing Christmas trees
+# Animated Glowing Christmas Tree with `R`
+
+https://user-images.githubusercontent.com/31518032/147093887-ebf289a1-2fcb-48dd-a023-36c18145c5f9.mp4
+
+Create your own twinkling Christmas tree with the script [xmas2021.R](https://github.com/zumbov2/ChristmasTree/blob/main/xmas2021.R) and some [ffmpeg](https://github.com/FFmpeg/FFmpeg) magic. 
+
