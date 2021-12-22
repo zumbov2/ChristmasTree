@@ -1,5 +1,5 @@
 # Animated Christmas Tree with `R`
-Christmas spirit sprinkled with a little bit of `8-bit`, a big helping of `tidyverse`, spiced up with some `ffmpeg` magic and voilà: twinkling Christmas trees as far as the eye can see. ;-) 
+Christmas spirit sprinkled with a little bit of `8-bit`, a large portion of `tidyverse`, spiced up with some `ffmpeg` magic and voilà: twinkling Christmas trees as far as the eye can see. ;-) 
 
 <img src="https://github.com/zumbov2/ChristmasTree/blob/main/tree.gif" width="600">  
 
