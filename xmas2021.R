@@ -442,7 +442,7 @@ handle_candles(
 # gif ----------------------------------------------------------------------------------
 
 system(paste0(
-  "/Users/michellegrob/Desktop/DotVerseNFT/ffmpeg -r 10 -i ",
+  "ffmpeg -r 10 -i ",
   folder,
   "/%03d.png -vcodec libx264 -crf 25  -pix_fmt yuv420p ", 
   folder,
